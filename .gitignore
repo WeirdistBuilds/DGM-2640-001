@@ -21,3 +21,13 @@
 sysinfo.txt
 
 *.spp
+
+UnityProjects/ScriptTester/\.idea/\.idea\.ScriptTester/
+
+UnityProjects/ScriptTester/Assets/Plugins/Editor/JetBrains/
+
+UnityProjects/ScriptTester/Library/
+
+UnityProjects/ScriptTester/Temp/__Backupscenes/
+
+UnityProjects/ScriptTester/Temp/
