@@ -5,7 +5,7 @@ public class EventOnCollision : MonoBehaviour
 {
 	public UnityEvent Event;
 
-	private void OnCollisionEnter()
+	private void OnCollisionEnter(Collision other)
 	{
 		Event.Invoke();
 	}

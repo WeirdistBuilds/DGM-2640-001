@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
+[CreateAssetMenu(fileName = "Popper", menuName = "Scriptable Objects/Popper")]
 
-public class Popper : MonoBehaviour
+public class Popper : ScriptableObject
 {
 	private Rigidbody[] rigidBodies;
 
-	private void OnCollisionEnter(Collision other)
+	public void Call(GameObject gameObject)
 	{
 		rigidBodies = gameObject.GetComponentsInChildren<Rigidbody>();
 
@@ -12,7 +13,5 @@ public class Popper : MonoBehaviour
 		{
 			rigidBody.isKinematic = false;
 		}
-		
-		Destroy(gameObject, 3);
 	}
 }
