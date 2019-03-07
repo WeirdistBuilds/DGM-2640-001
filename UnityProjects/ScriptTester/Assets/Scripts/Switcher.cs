@@ -1,12 +1,13 @@
 ﻿using UnityEngine;
 
-public class Mover : MonoBehaviour
+public class Switcher : MonoBehaviour
 {
 
 	public Rigidbody myRigidbody;
 	public CharacterController MyCharacterController;
 	public Transform Sphere;
 	public Transform Cube;
+	public Vector3 TempVelocity;
 	
 	// Use this for initialization
 	void Start ()
@@ -21,10 +22,12 @@ public class Mover : MonoBehaviour
 	void Update () {
 		if (Input.GetAxis("Vertical") < 0)
 		{
+			
 			MyCharacterController.enabled = false;
 			Cube.gameObject.SetActive(false);
 			Sphere.gameObject.SetActive(true);
 			myRigidbody.freezeRotation = false;
+			
 		}
 		else
 		{
