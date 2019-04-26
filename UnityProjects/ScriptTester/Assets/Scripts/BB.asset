@@ -13,4 +13,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 20
   JumpForce: 0.5
-  Gravity: -2
+  Gravity: -1

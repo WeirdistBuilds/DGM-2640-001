@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 21c5cace1c750af4d92a9e400f9ef09e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: MuscleJawLower_MuscleMeshes_Geometry
+    100002: MuscleMeshes_Geometry_MuscleAbs
+    100004: MuscleMeshes_Geometry_MuscleArmR
+    100006: MuscleMeshes_Geometry_MuscleBackLower
+    100008: MuscleMeshes_Geometry_MuscleBackUpper
+    100010: MuscleMeshes_Geometry_MuscleChest
+    100012: MuscleMeshes_Geometry_MuscleCollarOuterR
+    100014: MuscleMeshes_Geometry_MuscleEyeLower
+    100016: MuscleMeshes_Geometry_MuscleEyeUpper
+    100018: MuscleMeshes_Geometry_MuscleGluteR
+    100020: MuscleMeshes_Geometry_MuscleJawR
+    100022: MuscleMeshes_Geometry_MuscleLegR
+    100024: MuscleMeshes_Geometry_MuscleNeckUpper
+    100026: MuscleMeshes_Geometry_MuscleShoulderLowerR
+    100028: MuscleMeshes_Geometry_MuscleShoulderMidR
+    100030: MuscleMeshes_Geometry_MuscleShoulderUpperR
+    100032: MuscleMeshes_Geometry_MuscleTail
+    100034: MuscleMeshes_Geometry_MuscleTailR
+    100036: MuscleMeshes_Geometry_MuscleThroat
+    100038: MuscleMeshes_Geometry_MuscleTongue
+    100040: //RootNode
+    400000: MuscleJawLower_MuscleMeshes_Geometry
+    400002: MuscleMeshes_Geometry_MuscleAbs
+    400004: MuscleMeshes_Geometry_MuscleArmR
+    400006: MuscleMeshes_Geometry_MuscleBackLower
+    400008: MuscleMeshes_Geometry_MuscleBackUpper
+    400010: MuscleMeshes_Geometry_MuscleChest
+    400012: MuscleMeshes_Geometry_MuscleCollarOuterR
+    400014: MuscleMeshes_Geometry_MuscleEyeLower
+    400016: MuscleMeshes_Geometry_MuscleEyeUpper
+    400018: MuscleMeshes_Geometry_MuscleGluteR
+    400020: MuscleMeshes_Geometry_MuscleJawR
+    400022: MuscleMeshes_Geometry_MuscleLegR
+    400024: MuscleMeshes_Geometry_MuscleNeckUpper
+    400026: MuscleMeshes_Geometry_MuscleShoulderLowerR
+    400028: MuscleMeshes_Geometry_MuscleShoulderMidR
+    400030: MuscleMeshes_Geometry_MuscleShoulderUpperR
+    400032: MuscleMeshes_Geometry_MuscleTail
+    400034: MuscleMeshes_Geometry_MuscleTailR
+    400036: MuscleMeshes_Geometry_MuscleThroat
+    400038: MuscleMeshes_Geometry_MuscleTongue
+    400040: //RootNode
+    2100000: MuscleJawLower_MuscleMeshes_GeometryMat
+    2100002: MuscleMeshes_Geometry_MuscleAbsMat
+    2100004: MuscleMeshes_Geometry_MuscleArmRMat
+    2100006: MuscleMeshes_Geometry_MuscleBackLowerMat
+    2100008: MuscleMeshes_Geometry_MuscleBackUpperMat
+    2100010: MuscleMeshes_Geometry_MuscleChestMat
+    2100012: MuscleMeshes_Geometry_MuscleCollarOuterRMat
+    2100014: MuscleMeshes_Geometry_MuscleEyeLowerMat
+    2100016: MuscleMeshes_Geometry_MuscleEyeUpperMat
+    2100018: MuscleMeshes_Geometry_MuscleGluteRMat
+    2100020: MuscleMeshes_Geometry_MuscleJawRMat
+    2100022: MuscleMeshes_Geometry_MuscleLegRMat
+    2100024: MuscleMeshes_Geometry_MuscleNeckUpperMat
+    2100026: MuscleMeshes_Geometry_MuscleShoulderLowerRMat
+    2100028: MuscleMeshes_Geometry_MuscleShoulderMidRMat
+    2100030: MuscleMeshes_Geometry_MuscleShoulderUpperRMat
+    2100032: MuscleMeshes_Geometry_MuscleTailMat
+    2100034: MuscleMeshes_Geometry_MuscleTailRMat
+    2100036: MuscleMeshes_Geometry_MuscleThroatMat
+    2100038: MuscleMeshes_Geometry_MuscleTongueMat
+    2300000: MuscleJawLower_MuscleMeshes_Geometry
+    2300002: MuscleMeshes_Geometry_MuscleAbs
+    2300004: MuscleMeshes_Geometry_MuscleArmR
+    2300006: MuscleMeshes_Geometry_MuscleBackLower
+    2300008: MuscleMeshes_Geometry_MuscleBackUpper
+    2300010: MuscleMeshes_Geometry_MuscleChest
+    2300012: MuscleMeshes_Geometry_MuscleCollarOuterR
+    2300014: MuscleMeshes_Geometry_MuscleEyeLower
+    2300016: MuscleMeshes_Geometry_MuscleEyeUpper
+    2300018: MuscleMeshes_Geometry_MuscleGluteR
+    2300020: MuscleMeshes_Geometry_MuscleJawR
+    2300022: MuscleMeshes_Geometry_MuscleLegR
+    2300024: MuscleMeshes_Geometry_MuscleNeckUpper
+    2300026: MuscleMeshes_Geometry_MuscleShoulderLowerR
+    2300028: MuscleMeshes_Geometry_MuscleShoulderMidR
+    2300030: MuscleMeshes_Geometry_MuscleShoulderUpperR
+    2300032: MuscleMeshes_Geometry_MuscleTail
+    2300034: MuscleMeshes_Geometry_MuscleTailR
+    2300036: MuscleMeshes_Geometry_MuscleThroat
+    2300038: MuscleMeshes_Geometry_MuscleTongue
+    3300000: MuscleJawLower_MuscleMeshes_Geometry
+    3300002: MuscleMeshes_Geometry_MuscleAbs
+    3300004: MuscleMeshes_Geometry_MuscleArmR
+    3300006: MuscleMeshes_Geometry_MuscleBackLower
+    3300008: MuscleMeshes_Geometry_MuscleBackUpper
+    3300010: MuscleMeshes_Geometry_MuscleChest
+    3300012: MuscleMeshes_Geometry_MuscleCollarOuterR
+    3300014: MuscleMeshes_Geometry_MuscleEyeLower
+    3300016: MuscleMeshes_Geometry_MuscleEyeUpper
+    3300018: MuscleMeshes_Geometry_MuscleGluteR
+    3300020: MuscleMeshes_Geometry_MuscleJawR
+    3300022: MuscleMeshes_Geometry_MuscleLegR
+    3300024: MuscleMeshes_Geometry_MuscleNeckUpper
+    3300026: MuscleMeshes_Geometry_MuscleShoulderLowerR
+    3300028: MuscleMeshes_Geometry_MuscleShoulderMidR
+    3300030: MuscleMeshes_Geometry_MuscleShoulderUpperR
+    3300032: MuscleMeshes_Geometry_MuscleTail
+    3300034: MuscleMeshes_Geometry_MuscleTailR
+    3300036: MuscleMeshes_Geometry_MuscleThroat
+    3300038: MuscleMeshes_Geometry_MuscleTongue
+    4300000: MuscleJawLower_MuscleMeshes_Geometry
+    4300002: MuscleMeshes_Geometry_MuscleAbs
+    4300004: MuscleMeshes_Geometry_MuscleArmR
+    4300006: MuscleMeshes_Geometry_MuscleBackLower
+    4300008: MuscleMeshes_Geometry_MuscleBackUpper
+    4300010: MuscleMeshes_Geometry_MuscleChest
+    4300012: MuscleMeshes_Geometry_MuscleCollarOuterR
+    4300014: MuscleMeshes_Geometry_MuscleEyeLower
+    4300016: MuscleMeshes_Geometry_MuscleEyeUpper
+    4300018: MuscleMeshes_Geometry_MuscleGluteR
+    4300020: MuscleMeshes_Geometry_MuscleJawR
+    4300022: MuscleMeshes_Geometry_MuscleLegR
+    4300024: MuscleMeshes_Geometry_MuscleNeckUpper
+    4300026: MuscleMeshes_Geometry_MuscleShoulderLowerR
+    4300028: MuscleMeshes_Geometry_MuscleShoulderMidR
+    4300030: MuscleMeshes_Geometry_MuscleShoulderUpperR
+    4300032: MuscleMeshes_Geometry_MuscleTail
+    4300034: MuscleMeshes_Geometry_MuscleTailR
+    4300036: MuscleMeshes_Geometry_MuscleThroat
+    4300038: MuscleMeshes_Geometry_MuscleTongue
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
