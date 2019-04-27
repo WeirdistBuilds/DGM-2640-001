@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: a1501890824d6ad43a7156429e623878
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body_Jnt
+    100002: Geometry
+    100004: Jaw_Jnt
+    100006: L_Arm_Jnt
+    100008: L_Elbow_Jnt
+    100010: L_Eye
+    100012: L_Eye_Jnt
+    100014: L_Knee_Jnt
+    100016: L_Leg_Jnt
+    100018: Neck_Jnt
+    100020: R_Arm_Jnt
+    100022: R_Elbow_Jnt
+    100024: R_Eye
+    100026: R_Eye_Jnt
+    100028: R_Knee_Jnt
+    100030: R_Leg_Jnt
+    100032: RigSkeleton
+    100034: SkinMeshes
+    100036: Tongue
+    100038: Tongue_Jnt
+    100040: //RootNode
+    100042: TurtleSkin
+    400000: Body_Jnt
+    400002: Geometry
+    400004: Jaw_Jnt
+    400006: L_Arm_Jnt
+    400008: L_Elbow_Jnt
+    400010: L_Eye
+    400012: L_Eye_Jnt
+    400014: L_Knee_Jnt
+    400016: L_Leg_Jnt
+    400018: Neck_Jnt
+    400020: R_Arm_Jnt
+    400022: R_Elbow_Jnt
+    400024: R_Eye
+    400026: R_Eye_Jnt
+    400028: R_Knee_Jnt
+    400030: R_Leg_Jnt
+    400032: RigSkeleton
+    400034: SkinMeshes
+    400036: Tongue
+    400038: Tongue_Jnt
+    400040: //RootNode
+    400042: TurtleSkin
+    2100000: Turtle
+    2100002: Organ
+    2100004: Muscle
+    2300000: L_Eye
+    2300002: R_Eye
+    2300004: Tongue
+    3300000: L_Eye
+    3300002: R_Eye
+    3300004: Tongue
+    4300000: TurtleSkin
+    4300002: L_Eye
+    4300004: R_Eye
+    4300006: Tongue
+    7400000: TurtleSwim
+    9500000: //RootNode
+    13700000: TurtleSkin
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muscle
+    second: {fileID: 2100000, guid: a10ddfad801ce4e4f98534d594f48491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ
+    second: {fileID: 2100000, guid: 788f08d628181794cbdffa89a88c780c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turtle
+    second: {fileID: 2100000, guid: 1a103577399852c48939c681cdf90445, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TurtleSwim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
