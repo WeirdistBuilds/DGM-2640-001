@@ -1,3 +1,0 @@
-Today I worked primarily on the actual Turtle skin. As substance files are typically too big to push to github, and are thus in my ignore file, I will instead push this simple text document.
-
-Woo.
