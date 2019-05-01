@@ -2,10 +2,10 @@
 
 public class MovingPlatformChilder : MonoBehaviour {
 	
-	private void OnTriggerStay(Collider other)
+	private void OnTriggerEnter(Collider other)
 	{
 		Debug.Log("Triggered by " + other.gameObject.name);
-		var GameObjectToParent = other.transform.parent;
+		var GameObjectToParent = other.transform;
 		GameObjectToParent.transform.SetParent(gameObject.transform);
 	}
 
